@@ -1,0 +1,5 @@
+Шаги:
+1. Посылаем get запрос - https://regions-test.2gis.com/1.0/regions?page_size=15&country_code=ru
+
+Ожидаемый результат:
+Получение 13 элементов с полем code: ru

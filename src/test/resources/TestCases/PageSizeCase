@@ -1,0 +1,17 @@
+Шаги:
+1. Посылаем get запрос - https://regions-test.2gis.com/1.0/regions?page_size=5
+
+Ожидаемый результат:
+Получение 5 элементов.
+
+Шаги:
+1. Посылаем get запрос - https://regions-test.2gis.com/1.0/regions?page_size=10
+
+Ожидаемый результат:
+Получение 10 элементов.
+
+Шаги:
+1. Посылаем get запрос - https://regions-test.2gis.com/1.0/regions?page_size=15
+
+Ожидаемый результат:
+Получение 15 элементов.
